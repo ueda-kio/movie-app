@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ueda-kio/movie-app.git/static/css/main.ea344af6.chunk.css",
+    "main.js": "/ueda-kio/movie-app.git/static/js/main.f2a77dbc.chunk.js",
+    "main.js.map": "/ueda-kio/movie-app.git/static/js/main.f2a77dbc.chunk.js.map",
+    "runtime-main.js": "/ueda-kio/movie-app.git/static/js/runtime-main.843cd31d.js",
+    "runtime-main.js.map": "/ueda-kio/movie-app.git/static/js/runtime-main.843cd31d.js.map",
+    "static/js/2.56e61584.chunk.js": "/ueda-kio/movie-app.git/static/js/2.56e61584.chunk.js",
+    "static/js/2.56e61584.chunk.js.map": "/ueda-kio/movie-app.git/static/js/2.56e61584.chunk.js.map",
+    "static/js/3.53aede23.chunk.js": "/ueda-kio/movie-app.git/static/js/3.53aede23.chunk.js",
+    "static/js/3.53aede23.chunk.js.map": "/ueda-kio/movie-app.git/static/js/3.53aede23.chunk.js.map",
+    "index.html": "/ueda-kio/movie-app.git/index.html",
+    "static/css/main.ea344af6.chunk.css.map": "/ueda-kio/movie-app.git/static/css/main.ea344af6.chunk.css.map",
+    "static/js/2.56e61584.chunk.js.LICENSE.txt": "/ueda-kio/movie-app.git/static/js/2.56e61584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843cd31d.js",
+    "static/js/2.56e61584.chunk.js",
+    "static/css/main.ea344af6.chunk.css",
+    "static/js/main.f2a77dbc.chunk.js"
+  ]
+}
